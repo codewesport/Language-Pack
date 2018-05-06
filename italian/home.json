@@ -1,0 +1,57 @@
+{
+
+	"menu_platform" : {
+		"battle_royale" : "Battaglia Reale",
+		"league" : "Lega",
+		"versus_ranked" : "Scontro Diretto"
+	},
+
+	"grid" : {
+		"features" : {
+			"title" : "Funzionalità in arrivo",
+			"description" : "Stati e progressi di tutte le funzionalità in via di sviluppo."
+		},
+		"signups" : {
+			"users_title" : "Ultimi Utenti",
+			"users_description" : "Gli ultimi 20+ Giocatori registrati",
+			"groups_title" : "Ultimi Gruppi",
+			"groups_description" : "Gli ultimi 20+ Team registrati"
+		},
+		"news" : {
+			"title" : "Novità",
+			"description" : "Le ultime novità da Overpost"
+		}
+	},
+
+	"leaderboards" : {
+		"global_battle_leaderboard_title" : "Leaderboard Global",
+		"global_battle_leaderboard_description" : "Top 5 migliori Team nella modalità Battle Royale",
+		"global_battle_leaderboard_table" : {
+			"position" : "#",
+			"logo" : "Logo",
+			"group" : "Gruppo",
+			"points" : "Punti"
+		},
+		"global_battle_matches_title" : "Match Battaglia Reale",
+		"global_battle_matches_description" : "Gli ultimi 5 match nella modalità Battle Royale",
+		"global_battle_matches_table" : {
+			"game" : "",
+			"season" : "Stagione",
+			"platform" : "Piattaforma",
+			"server" : "Server",
+			"matchday" : "Giorno del match",
+			"winner" : "Vincitore"
+		},
+		"global_versus_matches_title" : "Match Scontro Diretto",
+		"global_versus_matches_description" : "Gli ultimi 5 match nella modalità Scontro Diretto",
+		"global_versus_matches_table" : {
+			"game" : "",
+			"id" : "#",
+			"mode" : "Modalità",
+			"map" : "Mappa",
+			"team_blue" : "<i class='fore-overhack ion-tshirt'></i>",
+			"team_red" : "<i class='fore-red ion-tshirt'></i>"
+		}
+	}
+
+}
