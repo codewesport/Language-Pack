@@ -1,0 +1,57 @@
+{
+
+	"menu" : {
+		"home" : "Benvenuti",
+		"community" : "Comunità",
+		"community_sub" : {
+			"games" : "Giochi",
+			"groups" : "Gruppi",
+			"partners" : "Partner",
+			"players" : "Giocatori",
+			"stramers" : "Streamer",
+			"walls" : "Walls"
+		},
+		"events" : "Eventi",
+		"play" : "Play",
+		"play_sub" : {
+			"battle_royale" : "Battaglia Reale",
+			"league" : "Lega",
+			"versus_ranked" : "Scontro Diretto"
+		},
+		"support" : "Supporto",
+		"support_sub" : {
+			"developers" : "Sviluppatori",
+			"documentation" : "Documentazione",
+			"faq" : "Domande frequenti",
+			"news" : "Novità"
+		}
+	},
+
+	"menu_account" : {
+		"view_profile" : "Visualizza Profilo",
+		"edit_profile" : "Modifica Profilo",
+		"membership" : "Membership",
+		"logout" : "Esci"
+	},
+
+	"menu_myaccount" : {
+		"title" : "Il mio account",
+		"description" : "Accedi o registrati",
+		"events" : "Eventi",
+		"game_accounts" : "Nickname in gioco",
+		"groups" : "Gruppi",
+		"guestbook" : "Commenti",
+		"rewards" : "Traguardi",
+		"sessions" : "Sessioni"
+	},
+
+	"menu_more" : {
+		"toggle_fullscreen" : "Schermo intero",
+		"terms_and_conditions" : "Termini e condizioni",
+		"privacy_policy" : "Condizioni sulla privacy",
+		"code_of_conduct" : "Codice di condotta"
+	},
+
+	"search_bar" : "Cerca sessioni, giocatori, match..."
+
+}

@@ -1,0 +1,57 @@
+{
+
+	"menu" : {
+		"home" : "Home",
+		"community" : "Community",
+		"community_sub" : {
+			"games" : "Games",
+			"groups" : "Groups",
+			"partners" : "Partners",
+			"players" : "Players",
+			"stramers" : "Streamers",
+			"walls" : "Walls"
+		},
+		"events" : "Events",
+		"play" : "Play",
+		"play_sub" : {
+			"battle_royale" : "Battle Royale",
+			"league" : "League",
+			"versus_ranked" : "Versus Ranked"
+		},
+		"support" : "Support",
+		"support_sub" : {
+			"developers" : "Developers",
+			"documentation" : "Documentation",
+			"faq" : "F.A.Q.",
+			"news" : "New"
+		}
+	},
+
+	"menu_account" : {
+		"view_profile" : "View Profile",
+		"edit_profile" : "Edit Profile",
+		"membership" : "Membership",
+		"logout" : "Logout"
+	},
+
+	"menu_myaccount" : {
+		"title" : "My Account",
+		"description" : "Log-in or Sign-up",
+		"events" : "Events",
+		"game_accounts" : "Game Accounts",
+		"groups" : "Groups",
+		"guestbook" : "Comments",
+		"rewards" : "Rewards",
+		"sessions" : "Sessions"
+	},
+
+	"menu_more" : {
+		"toggle_fullscreen" : "Toggle fullscreen",
+		"terms_and_conditions" : "Terms and conditions",
+		"privacy_policy" : "Privacy policy",
+		"code_of_conduct" : "Code of conduct"
+	},
+
+	"search_bar" : "Search for sessions, players, matches..."
+
+}
