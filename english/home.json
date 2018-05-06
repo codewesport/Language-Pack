@@ -1,0 +1,57 @@
+{
+
+	"menu_platform" : {
+		"battle_royale" : "Battle Royale",
+		"league" : "League",
+		"versus_ranked" : "Versus Ranked"
+	},
+
+	"grid" : {
+		"features" : {
+			"title" : "Incoming features",
+			"description" : "Status and progress of the incoming features!"
+		},
+		"signups" : {
+			"users_title" : "Last Users",
+			"users_description" : "Last 20+ registered Players",
+			"groups_title" : "Last Groups",
+			"groups_description" : "Last 20+ registered Teams"
+		},
+		"news" : {
+			"title" : "Last News",
+			"description" : "Following the latest Overhack news"
+		}
+	},
+
+	"leaderboards" : {
+		"global_battle_leaderboard_title" : "Global Leaderboard",
+		"global_battle_leaderboard_description" : "Top 5 Battle Royale Groups",
+		"global_battle_leaderboard_table" : {
+			"position" : "#",
+			"logo" : "Logo",
+			"group" : "Group",
+			"points" : "Points"
+		},
+		"global_battle_matches_title" : "Battle Royale Matches",
+		"global_battle_matches_description" : "Last 5 Battle Royale matches",
+		"global_battle_matches_table" : {
+			"game" : "",
+			"season" : "Season",
+			"platform" : "Platform",
+			"server" : "Server",
+			"matchday" : "Matchday",
+			"winner" : "Winner"
+		},
+		"global_versus_matches_title" : "Versus Ranked Matches",
+		"global_versus_matches_description" : "Last 5 Versus Ranked matches",
+		"global_versus_matches_table" : {
+			"game" : "",
+			"id" : "#",
+			"mode" : "Mode",
+			"map" : "Map",
+			"team_blue" : "<i class='fore-overhack ion-tshirt'></i>",
+			"team_red" : "<i class='fore-red ion-tshirt'></i>"
+		}
+	}
+
+}
