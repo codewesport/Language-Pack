@@ -1,57 +1,74 @@
 {
+    "menu" : {
+        "home" : "Home",
+        "community" : {
+            "root" : "Comunità",
+            "games" : "Giochi",
+            "teams" : "Team",
+            "players" : "Giocatori",
+            "communities" : "Comunità"
+        },
+        "play" : {
+            "root" : "Gioca",
+            "battle" : {
+                "title" : "Battle Royale",
+                "description" : "progettato per le BR",
+                "active_seasons" : "Stagioni Attive",
+                "all_seasons" : "Tutte le Stagioni",
+                "latest_seasons" : "Le ultime Stagioni",
+                "community_seasons" : "Community Seasons",
+                "pro_seasons" : "Pro Seasons",
+                "master_seasons" : "Master Seasons"
+            },
+            "league" : {
+                "title" : "Leghe e Tornei",
+                "description" : "progettato per FPS, MOBA Giochi Sportivi",
+                "community_bracket" : "Community Bracket",
+                "pro_bracket" : "Pro Bracket",
+                "master_bracket" : "Master Bracket",
+                "qualifier_bracket" : "Bracket Qualifiers",
+                "community_round" : "Community Round",
+                "pro_round" : "Pro Round",
+                "master_round" : "Master Round",
+                "qualifier_round" : "Round Qualifiers"
+            },
+            "versus" : {
+                "title" : "Versus Ranked",
+                "description" : "progettato per le Classifiche",
+                "seasons" : "Stagioni Versus Ranked",
+                "private" : "Match Privati",
+                "discord" : "Battaglie Discord",
+                "challenge" : "Guadagna con Overhack"
+            }
+        },
+        "shop" : {
+            "root" : "Negozio",
+            "boost" : "Overhack Boost",
+            "outfit" : "Indumenti",
+            "events" : "Ticket Eventi"
+        },
+        "support" : "Supporto",
+        "search" : "Cerca Team, Giocatori, Match...",
+        "shopping_cart" : {
+            "title" : "Inventario",
+            "description" : "Carrello",
+            "total" : "Totale",
+            "confirmations" : "Effettuando l'acquisto accetterai tutti i Termini e le Condizioni previste e descritte <a href='/knowledge/shop'>qui</a>.",
+            "clear" : "Pulisci carrello",
+            "confirm" : "Conferma e Acquista"
+        }
+    },
 
-	"menu" : {
-		"home" : "Benvenuti",
-		"community" : "Comunità",
-		"community_sub" : {
-			"games" : "Giochi",
-			"groups" : "Gruppi",
-			"partners" : "Partner",
-			"players" : "Giocatori",
-			"stramers" : "Streamer",
-			"walls" : "Walls"
-		},
-		"events" : "Eventi",
-		"play" : "Play",
-		"play_sub" : {
-			"battle_royale" : "Battaglia Reale",
-			"league" : "Tornei",
-			"versus_ranked" : "Scontro Diretto"
-		},
-		"support" : "Supporto",
-		"support_sub" : {
-			"developers" : "Sviluppatori",
-			"documentation" : "Documentazione",
-			"faq" : "Domande frequenti",
-			"news" : "Novità"
-		}
-	},
-
-	"menu_account" : {
-		"view_profile" : "Visualizza Profilo",
-		"edit_profile" : "Modifica Profilo",
-		"membership" : "Membership",
-		"logout" : "Esci"
-	},
-
-	"menu_myaccount" : {
-		"title" : "Il mio account",
-		"description" : "Accedi o registrati",
-		"events" : "Eventi",
-		"game_accounts" : "Nickname in gioco",
-		"groups" : "Gruppi",
-		"guestbook" : "Commenti",
-		"rewards" : "Traguardi",
-		"sessions" : "Sessioni"
-	},
-
-	"menu_more" : {
-		"toggle_fullscreen" : "Schermo intero",
-		"terms_and_conditions" : "Termini e condizioni",
-		"privacy_policy" : "Condizioni sulla privacy",
-		"code_of_conduct" : "Codice di condotta"
-	},
-
-	"search_bar" : "Cerca sessioni, giocatori, match..."
+    "menu_top" : {
+        "language" : "Lingua",
+        "welcome_back" : "Bentornato",
+        "login" : "Accedi o Registrati",
+        "logout" : "Esci",
+        "coins" : {
+            "wallet" : "Portafoglio",
+            "boost" : "Boost",
+            "shop" : "Gestisci negozio"
+        }
+    }
 
 }
