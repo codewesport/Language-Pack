@@ -1,57 +1,74 @@
 {
+    "menu" : {
+        "home" : "Home",
+        "community" : {
+            "root" : "Community",
+            "games" : "Games",
+            "teams" : "Teams",
+            "players" : "Players",
+            "communities" : "Communities"
+        },
+        "play" : {
+            "root" : "Play",
+            "battle" : {
+                "title" : "Battle Royale",
+                "description" : "designed for BR",
+                "active_seasons" : "Active Seasons",
+                "all_seasons" : "All Seasons",
+                "latest_seasons" : "Latest Seasons",
+                "community_seasons" : "Community Seasons",
+                "pro_seasons" : "Pro Seasons",
+                "master_seasons" : "Master Seasons"
+            },
+            "league" : {
+                "title" : "League and Tournaments",
+                "description" : "designed for FPS, MOBA and Sport Games",
+                "community_bracket" : "Community Bracket",
+                "pro_bracket" : "Pro Bracket",
+                "master_bracket" : "Master Bracket",
+                "qualifier_bracket" : "Bracket Qualifiers",
+                "community_round" : "Community Round",
+                "pro_round" : "Pro Round",
+                "master_round" : "Master Round",
+                "qualifier_round" : "Round Qualifiers"
+            },
+            "versus" : {
+                "title" : "Versus Ranked",
+                "description" : "designed for ranking",
+                "seasons" : "Versus Ranked Seasons",
+                "private" : "Private Matches",
+                "discord" : "Discord Battles",
+                "challenge" : "Earn with Overhack"
+            }
+        },
+        "shop" : {
+            "root" : "Shop",
+            "boost" : "Overhack Boost",
+            "outfit" : "Outfit",
+            "events" : "Event Tickets"
+        },
+        "support" : "Support",
+        "search" : "Search for Teams, Players, Matches...",
+        "shopping_cart" : {
+            "title" : "Bag inventory",
+            "description" : "Your bag",
+            "total" : "Invetory total",
+            "confirmations" : "By confirming the cart you will accept our Shop Terms and Conditions as described <a href='/knowledge/shop'>here</a>.",
+            "clear" : "Clear cart",
+            "confirm" : "Confirm and Buy"
+        }
+    },
 
-	"menu" : {
-		"home" : "Home",
-		"community" : "Community",
-		"community_sub" : {
-			"games" : "Games",
-			"groups" : "Groups",
-			"partners" : "Partners",
-			"players" : "Players",
-			"stramers" : "Streamers",
-			"walls" : "Walls"
-		},
-		"events" : "Events",
-		"play" : "Play",
-		"play_sub" : {
-			"battle_royale" : "Battle Royale",
-			"league" : "League",
-			"versus_ranked" : "Versus Ranked"
-		},
-		"support" : "Support",
-		"support_sub" : {
-			"developers" : "Developers",
-			"documentation" : "Documentation",
-			"faq" : "F.A.Q.",
-			"news" : "New"
-		}
-	},
-
-	"menu_account" : {
-		"view_profile" : "View Profile",
-		"edit_profile" : "Edit Profile",
-		"membership" : "Membership",
-		"logout" : "Logout"
-	},
-
-	"menu_myaccount" : {
-		"title" : "My Account",
-		"description" : "Log-in or Sign-up",
-		"events" : "Events",
-		"game_accounts" : "Game Accounts",
-		"groups" : "Groups",
-		"guestbook" : "Comments",
-		"rewards" : "Rewards",
-		"sessions" : "Sessions"
-	},
-
-	"menu_more" : {
-		"toggle_fullscreen" : "Toggle fullscreen",
-		"terms_and_conditions" : "Terms and conditions",
-		"privacy_policy" : "Privacy policy",
-		"code_of_conduct" : "Code of conduct"
-	},
-
-	"search_bar" : "Search for sessions, players, matches..."
+    "menu_top" : {
+        "language" : "Language",
+        "welcome_back" : "Welcome back",
+        "login" : "Login or Sign Up",
+        "logout" : "Logout",
+        "coins" : {
+            "wallet" : "My Wallet",
+            "boost" : "Boost",
+            "shop" : "Manage Shop"
+        }
+    }
 
 }
